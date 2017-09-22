@@ -1,0 +1,21 @@
+{
+  "name": "helloexpress",
+  "description": "",
+  "main": "",
+  "authors": [
+    "rayterrill <rayjohnterrill@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "./public",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
